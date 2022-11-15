@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **importnil/importnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Vadim and I'm a Senior Software Engineer living in Kiel, Germany.
+
+Having more than 5 years of experience writing Go & Backend, I've started to contribute to Open Source just recently, since September 2022, and one of my goals in this matter is to make useful, convenient and better tools as well as evolve as an engineer myself. I love engineering and believe constant growth is a must for every craftsman.
+
+---
+
+📙 My Favorite Books:
+
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
